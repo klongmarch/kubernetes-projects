@@ -1,2 +1,1 @@
-# kubernetes-projects
-Contains test projects
+yaml file for kubernetes 
